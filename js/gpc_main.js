@@ -9,7 +9,9 @@ var disciplines = [
   'Planning',
   'Construction',
   'Science',
-  'Music'
+  'Music',
+  'Programming',
+  'Technology'
 ];
 
 var modifiers = [
@@ -18,7 +20,8 @@ var modifiers = [
   'Neurological',
   'Planetary',
   'Botanical',
-  'Genetic'
+  'Genetic',
+  'Computer'
 ];
 
 function getRandomDiscipline() {
